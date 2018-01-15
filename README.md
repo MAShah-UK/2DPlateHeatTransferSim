@@ -1,1 +1,1 @@
-# 2D_Plate_Heat_Tranfer_Sim
+# 2D_Plate_Heat_Transfer_Sim
