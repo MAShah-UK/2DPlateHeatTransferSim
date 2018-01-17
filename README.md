@@ -19,3 +19,4 @@ The temperature distribution given: plate dimensions (1m x 1m), grid spacing (0.
 * Create GUI to allow user to directly input required parameters.
 
 ## Discontinuation
+The deadline for this project has passed.
