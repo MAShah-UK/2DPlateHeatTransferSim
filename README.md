@@ -6,7 +6,7 @@ Completed a MATLAB group project in which heat transfer over a 2D plate was simu
   * MATLAB R2016b
   
 ## Output Data
-The graphs show how the heat distribution evolves across the plate over a span of ten seconds.
+The graphs show how the heat distribution evolves across the plate over a span of ten seconds given a set of parameters.
 
 * [1] The temperature distribution given: 
   * Plate Dimensions (2m x 1m) 
