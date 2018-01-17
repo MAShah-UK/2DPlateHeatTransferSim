@@ -32,6 +32,7 @@ Completed a MATLAB group project in which heat transfer over a 2D plate was simu
 
 ## Future Improvements
 * Create GUI to allow user to directly input required parameters.
+* Save results locally based on date/time to create unique directory paths.
 
 ## Discontinuation
 The deadline for this project has passed.
