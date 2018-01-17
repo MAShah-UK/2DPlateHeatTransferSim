@@ -15,7 +15,7 @@ The temperature distribution given: plate dimensions (1m x 1m), grid spacing (0.
 <img width="25%" src="https://github.com/MAShah-UK/2DPlateHeatTransferSim/blob/master/Graphs/%235%20at%20time%20%5B5s%5D.png">
 <img width="25%" src="https://github.com/MAShah-UK/2DPlateHeatTransferSim/blob/master/Graphs/%236%20at%20time%20%5B10s%5D.png">
 
-## Future improvements
+## Future Improvements
 * Create GUI to allow user to directly input required parameters.
 
 ## Discontinuation
