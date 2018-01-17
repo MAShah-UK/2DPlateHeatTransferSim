@@ -17,7 +17,7 @@ Completed a MATLAB group project in which heat transfer over a 2D plate was simu
 * Results sensitivity to grid resolution given:
   * Grid Spacing (0.01m x 0.01m)
 
-<img width="25%" src="/Graphs/MATLAB%20Q2%20(0.01)/%231%20at%20time%20%5B0s%5D.png"> <img width="25%" src="/Graphs/MATLAB%20Q2%20(0.01)/%232%20at%20time%20%5B1s%5D.png"> <img width="25%" src="/Graphs/MATLAB%20Q2%20(0.01)/%233%20at%20time%20%5B2s%5D.png"> <img width="25%" src="/Graphs/MATLAB%20Q2%20(0.01)/%234%20at%20time%20%5B5s%5D.png"> <img width="25%" src="/Graphs/MATLAB%20Q2%20(0.01)/%235%20at%20time%20%5B10s%5D.png">
+<img width="35%" src="/Graphs/MATLAB%20Q2%20(0.01)/%231%20at%20time%20%5B0s%5D.png"> <img width="35%" src="/Graphs/MATLAB%20Q2%20(0.01)/%232%20at%20time%20%5B1s%5D.png"> <img width="35%" src="/Graphs/MATLAB%20Q2%20(0.01)/%233%20at%20time%20%5B2s%5D.png"> <img width="35%" src="/Graphs/MATLAB%20Q2%20(0.01)/%234%20at%20time%20%5B5s%5D.png"> <img width="35%" src="/Graphs/MATLAB%20Q2%20(0.01)/%235%20at%20time%20%5B10s%5D.png">
 
 * Results sensitivity to grid resolution given:
   * Grid Spacing (0.1m x 0.01m)
