@@ -7,19 +7,28 @@ Completed a MATLAB group project in which heat transfer over a 2D plate was simu
   
 ## Output Data
 * The temperature distribution given: 
-  * Plate Dimensions (1m x 1m) 
-  * Grid Spacing (0.02m)
+  * Plate Dimensions (2m x 1m) 
+  * Grid Spacing (0.02m x 0.02m)
   * Time Spacing (0.02s)
   * Thermal Diffusivity (0.05m^2/s x 0.05m^2/s)
 
-![Figure](https://raw.githubusercontent.com/MAShah-UK/2DPlateHeatTransferSim/master/Graphs/MATLAB%20Q1/%231%20at%20time%20%5B0s%5D.png)
+![Figure1](/Graphs/MATLAB%20Q1/%231%20at%20time%20%5B0s%5D.png) ![Figure2]() ![Figure3]() ![Figure4]() ![Figure5]() ![Figure6]()
 
-<img width="25%" src="https://raw.githubusercontent.com/MAShah-UK/2DPlateHeatTransferSim/master/Graphs/MATLAB%20Q1/%231%20at%20time%20%5B0s%5D.png">
-<img width="25%" src="raw/master/Graphs/MATLAB%20Q1/%231%20at%20time%20%5B0s%5D.png">
-<img width="25%" src="/Graphs/%233%20at%20time%20%5B2s%5D.png">
-<img width="25%" src="Graphs/%234%20at%20time%20%5B3s%5D.png">
-<img width="25%" src="Graphs/%235%20at%20time%20%5B5s%5D.png">
-<img width="25%" src="Graphs/%236%20at%20time%20%5B10s%5D.png">
+* Results sensitivity to grid resolution given:
+  * Grid Spacing (0.01m x 0.01m)
+
+![Figure1](/Graphs/MATLAB%20Q1/%231%20at%20time%20%5B0s%5D.png) ![Figure2]() ![Figure3]() ![Figure4]() ![Figure5]() ![Figure6]()
+
+* Results sensitivity to grid resolution given:
+  * Grid Spacing (0.1m x 0.01m)
+
+![Figure1](/Graphs/MATLAB%20Q1/%231%20at%20time%20%5B0s%5D.png) ![Figure2]() ![Figure3]() ![Figure4]() ![Figure5]() ![Figure6]()
+
+* Results sensitivity to thermal diffusivity given:
+  * Grid Spacing (0.02m x 0.02m)
+  * Thermal Diffusivity (0.01m^2/s x 0.05m^2/s)
+
+![Figure1](/Graphs/MATLAB%20Q1/%231%20at%20time%20%5B0s%5D.png) ![Figure2]() ![Figure3]() ![Figure4]() ![Figure5]() ![Figure6]()
 
 ## Future Improvements
 * Create GUI to allow user to directly input required parameters.
