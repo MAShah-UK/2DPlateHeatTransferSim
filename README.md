@@ -1,5 +1,5 @@
 ## Project Info
-Completed a MATLAB group project in which heat transfer over a 2D plate was simulated using finite element analysis. My result for this project was the highest among 132 students.
+Completed a MATLAB group project in which heat transfer over a 2D plate was simulated using finite element analysis. My result for this project was the highest among 132 students. Link to [assignment][assignment].
 * **Platform**
   * Windows
 * **Tools**
@@ -38,3 +38,5 @@ The graphs show how the heat distribution evolves across the plate over a span o
 
 ## Discontinuation
 The deadline for this project has passed.
+
+[assignment]: /Documents/Assignment.pdf
