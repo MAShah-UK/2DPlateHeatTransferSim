@@ -37,6 +37,6 @@ The graphs show how the heat distribution evolves across the plate over a span o
 * Save results locally based on date/time to create unique directory paths.
 
 ## Discontinuation
-The deadline for this project has passed.
+The project was created for a university group coursework.The deadline for the coursework has passed.
 
 [assignment]: /Documents/Assignment.pdf
