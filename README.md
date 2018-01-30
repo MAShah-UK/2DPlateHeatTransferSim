@@ -1,5 +1,5 @@
 ## Project Info
-Completed a MATLAB group project in which heat transfer over a 2D plate was simulated using finite element analysis. My result for this project was the highest among 132 students.
+Completed a MATLAB group project in which heat transfer over a 2D plate was simulated using finite element analysis. My result for this project was the highest among 132 students. Link to [assignment][assignment].
 * **Platform**
   * Windows
 * **Tools**
@@ -22,7 +22,7 @@ The graphs show how the heat distribution evolves across the plate over a span o
 <img width="30%" src="/Graphs/MATLAB%20Q2%20(0.01)/%231%20at%20time%20%5B0s%5D.png"> <img width="30%" src="/Graphs/MATLAB%20Q2%20(0.01)/%232%20at%20time%20%5B1s%5D.png"> <img width="30%" src="/Graphs/MATLAB%20Q2%20(0.01)/%233%20at%20time%20%5B2s%5D.png"> <img width="30%" src="/Graphs/MATLAB%20Q2%20(0.01)/%234%20at%20time%20%5B5s%5D.png"> <img width="30%" src="/Graphs/MATLAB%20Q2%20(0.01)/%235%20at%20time%20%5B10s%5D.png">
 
 * [2.2] Results sensitivity to grid resolution given:
-  * Grid Spacing (0.1m x 0.01m)
+  * Grid Spacing (0.1m x 0.1m)
 
 <img width="30%" src="/Graphs/MATLAB%20Q2%20(0.01)/%231%20at%20time%20%5B0s%5D.png"> <img width="30%" src="/Graphs/MATLAB%20Q2%20(0.1)/%232%20at%20time%20%5B1s%5D.png"> <img width="30%" src="/Graphs/MATLAB%20Q2%20(0.1)/%233%20at%20time%20%5B2s%5D.png"> <img width="30%" src="/Graphs/MATLAB%20Q2%20(0.1)/%234%20at%20time%20%5B5s%5D.png"> <img width="30%" src="/Graphs/MATLAB%20Q2%20(0.1)/%235%20at%20time%20%5B10s%5D.png">
 
@@ -37,4 +37,6 @@ The graphs show how the heat distribution evolves across the plate over a span o
 * Save results locally based on date/time to create unique directory paths.
 
 ## Discontinuation
-The deadline for this project has passed.
+The project was created for a university group coursework.The deadline for the coursework has passed.
+
+[assignment]: /Documents/Assignment.pdf
